@@ -7,7 +7,7 @@ Project Type :
 
 FinalProject : ASP .Net Core Web API 
 app_payment  : Angular
-
+Database     : SQL Server
 
 
 
