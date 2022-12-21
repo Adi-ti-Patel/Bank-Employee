@@ -5,8 +5,12 @@ We can add details of cerdit card.
 
 Project Type :
 
+# Visual Studio
 FinalProject : ASP .Net Core Web API 
+
+# Visual Code
 app_payment  : Angular
+
 Database     : SQL Server
 
 
